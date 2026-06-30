@@ -34,8 +34,9 @@ $$\text{Alcoholemia} = \frac{\text{Gramos de alcohol consumidos}}{\text{Peso cor
 
 ## Integrantes
 
-* **Nombre del Alumno 1** - [GitHub](https://github.com)
-* **Nombre del Alumno 2** - [GitHub](https://github.com)
+* **SImon Flomenboim**
+* **Noah Ariel Marabi** 
+* **Luciano Ivan Roitman** 
 
 ---
 *⚠️ **Descargo de responsabilidad:** Este proyecto es estrictamente educativo para la materia de Química. No debe utilizarse como un sustituto de un alcoholímetro oficial ni para determinar la capacidad real de conducir.*
