@@ -8,6 +8,7 @@ Una aplicación web interactiva que calcula la tasa de alcoholemia en sangre de 
 * **Dinámica Temporal:** Incorpora el tiempo transcurrido desde la ingesta para calcular la curva de alcoholemia.
 * **Variables Biométricas:** Cálculos precisos adaptados al peso, altura, sexo biológico y tipo de cuerpo del usuario.
 * **Base Científica:** Algoritmo basado en fórmulas químicas y de fluidos corporales reales (fórmula de Widmark / Watson).
+* **Tiempo de Bajada:** Una recta que muestra cuantas horas tardara hasta que desaparezca el alcohol en sangre
 
 ## Fundamento Químico y Científico
 
@@ -22,6 +23,7 @@ $$\text{Alcoholemia} = \frac{\text{Gramos de alcohol consumidos}}{\text{Peso cor
 ## Tecnologías Utilizadas
 
 * **Frontend:** HTML5, CSS3 (diseño responsivo) y JavaScript (Vanilla o especificar framework).
+* **Backend:** Supabase y Vercel (Para Deployment y base de datos para usuarios y registro de nivel de alcohol en sangre
 * **Cálculos:** Motor lógico en JavaScript para el procesamiento matemático de las variables químicas.
 
 ## Instalación y Uso
