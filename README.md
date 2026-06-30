@@ -1,15 +1,15 @@
-# 🧪 Test de Alcoholemia Web — TP de Química
+# Test de Alcoholemia Web — TP de Química
 
 Una aplicación web interactiva que calcula la tasa de alcoholemia en sangre de forma personalizada, utilizando fórmulas científicas y mediciones reales basadas en variables corporales y de consumo.
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Carga Personalizada de Consumo:** Registro de cantidad (tamaño de vasos) y tipo de bebida alcohólica (graduación).
 * **Dinámica Temporal:** Incorpora el tiempo transcurrido desde la ingesta para calcular la curva de alcoholemia.
 * **Variables Biométricas:** Cálculos precisos adaptados al peso, altura, sexo biológico y tipo de cuerpo del usuario.
 * **Base Científica:** Algoritmo basado en fórmulas químicas y de fluidos corporales reales (fórmula de Widmark / Watson).
 
-## 📊 Fundamento Químico y Científico
+## Fundamento Químico y Científico
 
 El cálculo no es una estimación genérica; se rige por principios químicos de absorción y metabolismo:
 
@@ -19,12 +19,12 @@ El cálculo no es una estimación genérica; se rige por principios químicos de
 
 $$\text{Alcoholemia} = \frac{\text{Gramos de alcohol consumidos}}{\text{Peso corporal (kg)} \times r} - (\text{Factor de eliminación} \times \text{Tiempo})$$
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Frontend:** HTML5, CSS3 (diseño responsivo) y JavaScript (Vanilla o especificar framework).
 * **Cálculos:** Motor lógico en JavaScript para el procesamiento matemático de las variables químicas.
 
-## 💻 Instalación y Uso
+## Instalación y Uso
 
 1. Clona este repositorio:
    ```bash
@@ -32,7 +32,7 @@ $$\text{Alcoholemia} = \frac{\text{Gramos de alcohol consumidos}}{\text{Peso cor
    ```
 2. Abre el archivo `index.html` en tu navegador web o levanta un servidor local.
 
-## 👥 Integrantes
+## Integrantes
 
 * **Nombre del Alumno 1** - [GitHub](https://github.com)
 * **Nombre del Alumno 2** - [GitHub](https://github.com)
